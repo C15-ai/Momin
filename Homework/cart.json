@@ -1,0 +1,22 @@
+{
+  "cart": {
+    "items": [
+      {
+        "name": "Phone",
+        "price": 300,
+        "qty": 2
+      },
+      {
+        "name": "Headphones",
+        "price": 50,
+        "qty": 3
+      },
+      {
+        "name": "Charger",
+        "price": 20,
+        "qty": 1
+      }
+    ],
+    "currency": "USD"
+  }
+}

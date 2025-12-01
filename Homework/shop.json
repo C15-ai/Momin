@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "name": "Electronics",
+            "products": [
+                {
+                    "name": "Phone",
+                    "price": 300
+                },
+                {
+                    "name": "Laptop",
+                    "price": 1000
+                }
+            ]
+        },
+        {
+            "name": "Books",
+            "products": [
+                {
+                    "name": "Python 101",
+                    "price": 25
+                },
+                {
+                    "name": "Algorithms",
+                    "price": 40
+                },
+                {
+                    "name": "Data Science",
+                    "price": 35
+                }
+            ]
+        }
+    ]
+}

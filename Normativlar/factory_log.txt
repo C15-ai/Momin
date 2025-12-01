@@ -1,0 +1,18 @@
+2025-11-29 10:57:53,171 - INFO - display_info muvaffaqiyatli bajarildi.
+2025-11-29 10:57:53,171 - INFO - result ishladi
+2025-11-29 10:57:53,171 - INFO - display_info chaqirildi.
+2025-11-29 10:57:53,171 - INFO - display_info muvaffaqiyatli bajarildi.
+2025-11-29 10:57:53,171 - INFO - result ishladi
+2025-11-29 10:57:53,171 - INFO - display_info chaqirildi.
+2025-11-29 10:57:53,171 - INFO - set_price muvaffaqiyatli bajarildi.
+2025-11-29 10:57:53,171 - INFO - result ishladi
+2025-11-29 10:57:53,171 - INFO - set_price chaqirildi.
+2025-11-29 10:57:53,171 - INFO - set_price muvaffaqiyatli bajarildi.
+2025-11-29 10:57:53,196 - INFO - result ishladi
+2025-11-29 10:57:53,196 - INFO - set_price chaqirildi.
+2025-11-29 10:57:53,196 - ERROR - Xatolik: add_product - level must be an integer
+2025-11-29 10:57:53,196 - ERROR - Xatolik: add_product - level must be an integer
+2025-11-29 10:57:53,196 - INFO - display_info muvaffaqiyatli bajarildi.
+2025-11-29 10:57:53,196 - INFO - result ishladi
+2025-11-29 10:57:53,196 - INFO - display_info chaqirildi.
+2025-11-29 10:57:53,196 - ERROR - Xatolik: list_products - level must be an integer

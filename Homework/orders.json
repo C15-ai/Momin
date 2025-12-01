@@ -1,0 +1,34 @@
+{
+    "orders": [
+        {
+            "id": 1,
+            "items": [
+                {
+                    "name": "Pen",
+                    "qty": 3
+                },
+                {
+                    "name": "Notebook",
+                    "qty": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "items": [
+                {
+                    "name": "Book",
+                    "qty": 1
+                },
+                {
+                    "name": "Pencil",
+                    "qty": 5
+                },
+                {
+                    "name": "Eraser",
+                    "qty": 2
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "username": "ali",
+        "posts_count": 3
+    },
+    {
+        "username": "vali",
+        "posts_count": 1
+    },
+    {
+        "username": "gul",
+        "posts_count": 0
+    }
+]

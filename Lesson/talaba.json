@@ -1,0 +1,31 @@
+{
+    "ism": "Alijon Valiyev",
+    "yosh": 30,
+    "oila": true,
+    "farzandlar": [
+        "Ahmad",
+        "Bonu"
+    ],
+    "allergiya": null,
+    "dorilar": [
+        {
+            "nomi": "Parasetamol",
+            "miqdori": [
+                1,
+                5
+            ]
+        },
+        {
+            "nomi": "setramon",
+            "miqdori": [
+                1,
+                5
+            ]
+        }
+    ],
+    "nomi": "setramon",
+    "miqdori": [
+        1,
+        5
+    ]
+}

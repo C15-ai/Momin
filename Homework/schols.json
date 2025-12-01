@@ -1,0 +1,20 @@
+{
+    "school_name": "IT School",
+    "groups": [
+        {
+            "name": "Group A",
+            "students": [
+                "Ali",
+                "Vali"
+            ]
+        },
+        {
+            "name": "Group B",
+            "students": [
+                "Gul",
+                "Aziz",
+                "Lola"
+            ]
+        }
+    ]
+}

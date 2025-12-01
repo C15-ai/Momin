@@ -1,0 +1,27 @@
+{
+    "courses": [
+        {
+            "name": "Python Basics",
+            "students": [
+                "Ali",
+                "Vali",
+                "Gul"
+            ]
+        },
+        {
+            "name": "Web Development",
+            "students": [
+                "Soli"
+            ]
+        },
+        {
+            "name": "Data Science",
+            "students": [
+                "Ali",
+                "Aziz",
+                "Lola",
+                "Murod"
+            ]
+        }
+    ]
+}
